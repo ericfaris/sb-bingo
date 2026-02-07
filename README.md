@@ -68,6 +68,35 @@ Third item
 
 You need at least enough items to fill one card (rows x cols, minus 1 if using free space). For example, a 5x5 grid with free space needs at least 24 unique items.
 
+## Generating Events with AI
+
+Use the following prompt template with ChatGPT, Claude, or any LLM to generate a themed events list for your Super Bowl party. Replace the team names, key players, and year as needed.
+
+```
+Generate 100 unique bingo-card events for a Super Bowl LIX watch party
+(2025: Kansas City Chiefs vs. Philadelphia Eagles).
+
+Constraints:
+- Every event MUST be something that can realistically happen before halftime
+  (no "final score", "game MVP", "overtime", "second half kickoff", etc.).
+- ~40% football-related events — use real player names and positions from both
+  rosters (e.g. "Patrick Mahomes (KC) throws a touchdown pass",
+  "Jalen Hurts (PHI) scrambles for positive yards").
+  Include a mix of offensive plays, defensive plays, penalties, and special teams.
+- ~60% non-football events — commercials (types/themes, not specific brands),
+  broadcast moments, crowd shots, sideline activity, graphics, and
+  pre-game ceremony moments.
+- Keep each event short enough to fit in a bingo card cell (roughly 8-12 words max).
+- Output as plain text, one event per line, no numbering.
+- Add a comment header line starting with # that describes the list.
+```
+
+Save the output to a `.txt` file and pass it to the generator:
+
+```bash
+python bingo_generator.py my_events.txt --cards 15 --free-space --title "Super Bowl Bingo"
+```
+
 ## Output
 
 The script generates a PDF with one card per page on US Letter size (8.5" x 11"). Each card has:
