@@ -1,0 +1,100 @@
+# Super Bowl Bingo - Sample Events
+# One item per line. Lines starting with # are comments.
+
+Drake Maye (NE) completes a pass for a first down
+Sam Darnold (SEA) completes a pass for a first down
+Rhamondre Stevenson (NE) gains 10+ yards rushing
+Kenneth Walker III (SEA) gains 10+ yards rushing
+Stefon Diggs (NE) makes a sideline catch
+Jaxon Smith-Njigba (SEA) makes a sideline catch
+Cooper Kupp (SEA) makes a one-handed catch
+Hunter Henry (NE) catches a first down pass
+AJ Barner (SEA) catches a red zone pass
+Drake Maye (NE) throws a touchdown pass
+Sam Darnold (SEA) scrambles for positive yards
+Rhamondre Stevenson (NE) breaks two tackles
+Kenneth Walker III (SEA) spins away from a defender
+Stefon Diggs (NE) gets separation on a deep route
+Jaxon Smith-Njigba (SEA) stat graphic appears
+Cooper Kupp (SEA) is shown flexing after a catch
+Hunter Henry (NE) blocks for a big run
+AJ Barner (SEA) makes a contested catch
+Drake Maye (NE) is sacked by Seahawks defense
+Sam Darnold (SEA) is sacked by Patriots defense
+Christian Barmore (NE) gets a sack
+Leonard Williams (SEA) gets a sack
+Seahawks interception (any player)
+Patriots interception (any player)
+Fumble recovered by defense
+Pass tipped at the line of scrimmage
+Seahawks win coin toss
+Patriots win coin toss
+National anthem performance ends
+Opening kickoff return past 25-yard line
+Touchback kickoff
+Field goal attempt (made or missed)
+Extra point missed
+Seahawks touchdown
+Patriots touchdown
+Red zone graphic shown
+Drake Maye (NE) stat graphic appears
+Sam Darnold (SEA) stat graphic appears
+Rhamondre Stevenson (NE) stat graphic appears
+Kenneth Walker III (SEA) stat graphic appears
+Stefon Diggs (NE) stat graphic appears
+Timeout called by either team
+Referees review a play
+Offense holding penalty
+False start penalty
+Defensive offside called
+Pass interference flagged
+Announcer says "What a play!"
+Announcer says "Unbelievable!"
+"Pressure on the quarterback" mentioned
+Fans in Seahawks face paint
+Fans in Patriots face paint
+Overhead stadium drone shot
+Celebrity shown in crowd
+Seahawks mascot appears on screen
+Patriots mascot appears on screen
+Players drink from sports bottles
+Helmet adjustment on sideline
+Talking animal commercial
+Car commercial
+Soda commercial
+Chips or snack commercial
+Kids featured in commercial
+Superhero movie trailer
+Heartwarming family commercial
+Tech/gadget commercial
+AI mentioned in commercial
+Someone watching football in commercial
+Baby appears in commercial
+Dog appears in commercial
+Dancing people in commercial
+Cartoon character shown
+Funny baby commercial
+Pizza commercial
+Phone commercial
+Streaming service ad
+Insurance commercial with funny mascot
+Clothing brand commercial
+Fast food drive-thru shown
+Holiday-themed commercial
+Game console commercial
+Headphones or earbuds shown
+Score graphic with team logos
+First down marker graphic appears
+Down and distance graphic shown
+Replay shown from behind the quarterback
+Slow motion replay of a catch
+Close-up of referee signals
+Fans holding up signs for players
+Child with foam finger shown
+Fan reaction shot after big play
+Cheerleaders shown on sideline
+Military color guard shown
+Flyover by fighter jets
+Stadium crowd noise gauge shown
+Weather graphic for stadium location
+Sponsor logo fills the screen
